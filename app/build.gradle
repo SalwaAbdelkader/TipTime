@@ -8,6 +8,8 @@ android {
 
     defaultConfig {
         applicationId "com.salwa.tiptime"
+
+        vectorDrawables.useSupportLibrary = true
         minSdk 19
         targetSdk 31
         versionCode 1
